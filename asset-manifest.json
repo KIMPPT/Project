@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Project/static/css/main.adff8f1e.css",
+    "main.js": "/Project/static/js/main.51c867d2.js",
+    "static/js/787.cdcdca4b.chunk.js": "/Project/static/js/787.cdcdca4b.chunk.js",
+    "static/media/copper.jpg": "/Project/static/media/copper.d7ff9dbb20c6da3b13ef.jpg",
+    "static/media/rebar.jpg": "/Project/static/media/rebar.d61f4a09482d932ce8f4.jpg",
+    "static/media/nickel2.jpg": "/Project/static/media/nickel2.bb37fc2fcd57e53fd441.jpg",
+    "static/media/small1.jpg": "/Project/static/media/small1.4f4a174fbfc75d58187a.jpg",
+    "static/media/slick.svg": "/Project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Project/index.html",
+    "main.adff8f1e.css.map": "/Project/static/css/main.adff8f1e.css.map",
+    "main.51c867d2.js.map": "/Project/static/js/main.51c867d2.js.map",
+    "787.cdcdca4b.chunk.js.map": "/Project/static/js/787.cdcdca4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adff8f1e.css",
+    "static/js/main.51c867d2.js"
+  ]
+}
